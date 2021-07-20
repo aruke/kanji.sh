@@ -41,7 +41,7 @@
     "@types/react-lottie": "^1.2.5",
     "@types/react-pdf": "^5.0.1",
     "@types/styled-components": "^5.1.6",
-    "@typescript-eslint/eslint-plugin": "^4.14.0",
+    "@typescript-eslint/eslint-plugin": "^4.28.4",
     "@typescript-eslint/parser": "^4.14.0",
     "adm-zip": "^0.5.1",
     "eslint": "^7.18.0",
