@@ -18,7 +18,7 @@
     "clean-css": "^4.2.3",
     "axios": "^0.21.1",
     "clsx": "^1.1.1",
-    "firebase": "^7.24.0",
+    "firebase": "^8.8.0",
     "firebase-admin": "^9.5.0",
     "formik": "^2.2.6",
     "formik-material-ui": "^3.0.1",
